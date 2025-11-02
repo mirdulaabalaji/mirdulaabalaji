@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧠**I'm currently working on**<br> Analyzing fMRI brain images to identify early predictors for Alzheimer's disease using MATLAB and the CONN toolbox. <br>
 👯 **I'm looking to collaborate on** <br> Using AI for social good, especially in healthcare or environmental protection, and projects that need strong data visualization to tell a story.
-❤️ **Fun fact** <br> I love fiction, fashion and human-made art.
+<br>❤️ **Fun fact** <br> I love fiction, fashion and human-made art.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mirdulaa-balaji-27245227a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirdulaa235@gmail.com) 
