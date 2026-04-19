@@ -1,5 +1,3 @@
-# 💫 About Me:
-🧠**I'm currently working on**<br> Analyzing fMRI brain images to identify early predictors for Alzheimer's disease using MATLAB and the CONN toolbox. <br>
 👯 **I'm looking to collaborate on** <br> Using AI for social good, especially in healthcare or environmental protection, and projects that need strong data visualization to tell a story.
 <br>❤️ **Fun fact** <br> I love fiction, fashion and human-made art.
 
