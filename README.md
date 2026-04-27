@@ -1,3 +1,4 @@
+## 🎆 Hello ! <br>
 👯 **I'm looking to collaborate on** <br> Using AI for social good, especially in healthcare or environmental protection, and projects that need strong data visualization to tell a story.
 <br>❤️ **Fun fact** <br> I love fiction, fashion and human-made art.
 
